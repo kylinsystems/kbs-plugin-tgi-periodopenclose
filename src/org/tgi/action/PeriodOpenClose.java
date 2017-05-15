@@ -113,7 +113,7 @@ public class PeriodOpenClose implements IAction {
 			if (event.getTarget().equals(confirmPanel.getButton("Ok"))) {
 
 				int size = gridTab.getRowCount();
-				int cnt = 0;
+				int cnt= 0;
 				for (int i = 0; i < size; i++) {
 					if (gridTab.isSelected(i)) {
 						MProcess process = MProcess.get(Env.getCtx(), PROCESS_PERIOD_ID);
@@ -140,7 +140,7 @@ public class PeriodOpenClose implements IAction {
 					}
 				}
 
-				window.getStatusBar().setStatusLine(Msg.getMsg(Env.getCtx(), "Updated") + " : " + cnt, false);
+				window.getStatusBar().setStatusLine("Mise a jour " + " : " + cnt, false);
 				gridTab.dataRefresh();
 
 				onClose();
