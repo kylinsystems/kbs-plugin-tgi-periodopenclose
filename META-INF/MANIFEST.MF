@@ -3,7 +3,6 @@ Bundle-ManifestVersion: 2
 Bundle-Name: KBS Plugins : GTI Periodopenclose
 Bundle-SymbolicName: com.kylinsystems.kbs.plugins.tgi.periodopenclose;singleton:=true
 Bundle-Version: 7.1.0.qualifier
-Bundle-ClassPath: .
 Bundle-Activator: com.kylinsystems.kbs.odt.Activator
 Bundle-ActivationPolicy: lazy
 Bundle-RequiredExecutionEnvironment: JavaSE-11

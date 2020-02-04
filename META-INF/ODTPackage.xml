@@ -457,7 +457,7 @@
           <OldUUID/>
         </ODTObjectDataLine>
         <ODTObjectDataLine AD_Column_ID="200095" ID="1009232" UUID="9825c3c3-7000-482a-9a83-9c7a320b4346">
-          <NewValue>org.tgi.action.periodOpenClose</NewValue>
+          <NewValue>org.tgi.action.periodopenclose</NewValue>
           <OldValue/>
           <IsNewNullValue>false</IsNewNullValue>
           <IsOldNullValue>false</IsOldNullValue>

@@ -1,10 +1,10 @@
-# KBS Plugins : TGI Periodopenclose
+# KBS Plugin : TGI Periodopenclose
 
 The fork from https://github.com/nmicoud/org.tgi.action.periodopenclose, and converted to be able to use **KBS ObjectData Tool** for plugin installation
 
 Refer to https://wiki.idempiere.org/en/Plugin:_PeriodOpenClose
 
-## How to Install
+## How to install
 
 1. Install **KBS ObjectData Tool**
 (refer to http://wiki.idempiere.org/en/Plugin:_ObjectDataTool)
@@ -15,6 +15,3 @@ Refer to https://wiki.idempiere.org/en/Plugin:_PeriodOpenClose
 
 Performance Analysis -> Accounting Rules -> Calendar Year and Period
 
-## TODO
-
-Review Toolbutton
