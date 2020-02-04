@@ -1,7 +1,20 @@
-# README #
+# KBS Plugins : TGI Periodopenclose
 
-This README would normally document whatever steps are necessary to get your application up and running.
+The fork from https://github.com/nmicoud/org.tgi.action.periodopenclose, and converted to be able to use **KBS ObjectData Tool** for plugin installation
 
-### What is this repository for? ###
+Refer to https://wiki.idempiere.org/en/Plugin:_PeriodOpenClose
 
-* Plugin for iDempiere which allow to update selected periods status
+## How to Install
+
+1. Install **KBS ObjectData Tool**
+(refer to http://wiki.idempiere.org/en/Plugin:_ObjectDataTool)
+
+2. Install the plugin via Apache Felix Web Console
+
+## How to use
+
+Performance Analysis -> Accounting Rules -> Calendar Year and Period
+
+## TODO
+
+Review Toolbutton
